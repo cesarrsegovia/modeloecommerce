@@ -123,6 +123,11 @@ aside {
     font-size: .85rem;
 }
 
+.cesardev{
+    max-width: 100%;
+    margin-top: 100px;
+}
+
 main {
     background-color: white;
     margin: 1rem;
